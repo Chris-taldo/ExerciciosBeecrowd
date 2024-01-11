@@ -1,0 +1,1 @@
+Esse repositório foi criado para colocar as resoluções (concluídas por mim) de exercicios do aplicativo (site) URI/BEECROWD em C#
